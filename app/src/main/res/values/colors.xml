@@ -11,5 +11,6 @@
     <color name="six">#42CAC0</color>
     <color name="seven">#BC74CE</color>
     <color name="eight">#F74C28</color>
-    <color name="nine"></color>
+    <color name="nine">#0070BA</color>
+    <color name="yellow">#fffa</color>
 </resources>
